@@ -1,0 +1,66 @@
+{
+    "addon_version": "3.0.7",
+    "files": {
+        "channels": [
+            "animeflv",
+            "animeonline",
+            "cine24h",
+            "cinecalidadla",
+            "cuevana2esp",
+            "cuevana3",
+            "cuevana3video",
+            "dilo",
+            "dontorrents",
+            "ennovelas",
+            "entrepeliculasyseries",
+            "frozenlayer",
+            "grantorrent",
+            "hdfull",
+            "hdfullse",
+            "henaojara",
+            "historiadeamortv",
+            "mejortorrentapp",
+            "peliculaspro",
+            "pelisplushdnz",
+            "pelispluslat",
+            "playdede",
+            "poseidonhd2",
+            "torrentpelis",
+            "yts"
+        ],
+        "core": [
+            "httptools",
+            "proxytools",
+            "requeststools",
+            "servertools"
+        ],
+        "modules": [
+            "actions",
+            "domains",
+            "helper",
+            "search",
+            "submnuctext",
+            "submnuteam",
+            "tester"
+        ],
+        "platformcode": [
+            "platformtools"
+        ],
+        "resources": [
+            "settings"
+        ],
+        "root dir": [
+            "dominios",
+            "version"
+        ],
+        "servers": [
+            "doodstream",
+            "mp4upload",
+            "streamhide",
+            "various",
+            "voe"
+        ]
+    },
+    "fix_version": 6,
+    "hash": "eab6d6381e7c975db724a760c44cc9b5"
+}
